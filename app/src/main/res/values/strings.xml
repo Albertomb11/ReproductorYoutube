@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlayList-YouTube</string>
+    <string name="cabecera">cabecera</string>
+    <string name="textView">TextView</string>
+</resources>
